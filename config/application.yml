@@ -1,3 +1,5 @@
+configuration:
+  projectName: configclient
 eureka:
     token: BND7y2ATvn78dUJyE5eA
     instance:
